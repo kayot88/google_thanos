@@ -1,0 +1,12 @@
+{
+  "name": "google",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "html2canvas": "^1.0.0-rc.1"
+  },
+  "devDependencies": {
+    "sass": "^1.20.1"
+  }
+}

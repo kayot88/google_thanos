@@ -1,0 +1,19 @@
+body {
+  font-family: 'Comic SansMS', sans-serif;
+}
+.sr {
+  min-width: 600px;
+  margin: 30px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  h2 {
+    margin: 0;
+  }
+}
+
+canvas {
+  margin: 30px;
+  position: absolute;
+  top: 400px;
+  left: 30px;
+}
