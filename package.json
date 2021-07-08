@@ -7,6 +7,6 @@
     "html2canvas": "^1.0.0-rc.1"
   },
   "devDependencies": {
-    "sass": "^1.20.1"
+    "sass": "^1.35.2"
   }
 }
